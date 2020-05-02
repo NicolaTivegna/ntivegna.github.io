@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicola Tivegna</title>
-    <link>https://tivegna.com/ntivegna.github.io/</link>
+    <link>https://nicola.tivegna.com/</link>
     <description>Recent content on Nicola Tivegna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 May 2020 18:28:21 +0200</lastBuildDate>
     
-	<atom:link href="https://tivegna.com/ntivegna.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicola.tivegna.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://tivegna.com/ntivegna.github.io/posts/my-first-post/</link>
+      <link>https://nicola.tivegna.com/posts/my-first-post/</link>
       <pubDate>Sat, 02 May 2020 18:28:21 +0200</pubDate>
       
-      <guid>https://tivegna.com/ntivegna.github.io/posts/my-first-post/</guid>
+      <guid>https://nicola.tivegna.com/posts/my-first-post/</guid>
       <description>Ciao, mi chiamo Nicola.</description>
     </item>
     
